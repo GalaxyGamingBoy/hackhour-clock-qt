@@ -15,7 +15,6 @@ signals:
 public slots:
 
 private:
-    QToolBar* m_toolbar;
 };
 
 #endif

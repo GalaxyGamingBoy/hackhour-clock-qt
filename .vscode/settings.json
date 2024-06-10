@@ -3,7 +3,7 @@
         "*.ejs": "html",
         "*.html.erb": "erb",
         "*.savedata": "json",
-        "qapplication": "cpp",
-        "qmainwindow": "cpp"
+        "qmainwindow": "cpp",
+        "qapplication": "cpp"
     }
 }
