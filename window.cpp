@@ -1,7 +1,7 @@
 #include "window.h"
 
-#include "QtWidgets/QMainWindow"
-#include "QtWidgets/QToolBar"
+#include "QMainWindow"
+#include "QToolBar"
 
 Window::Window(QWidget* parent) : QMainWindow(parent) {
     setFixedSize(300, 300);

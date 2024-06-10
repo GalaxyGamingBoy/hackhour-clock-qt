@@ -1,8 +1,8 @@
 #ifndef _HACKHOURQT_WINDOW_H_
 #define _HACKHOURQT_WINDOW_H_
 
-#include "QtWidgets/QMainWindow"
-#include "QtWidgets/QToolBar"
+#include "QMainWindow"
+#include "QToolBar"
 
 class Window : public QMainWindow {
     Q_OBJECT
