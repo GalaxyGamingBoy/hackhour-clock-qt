@@ -4,6 +4,7 @@
         "*.html.erb": "erb",
         "*.savedata": "json",
         "qmainwindow": "cpp",
-        "qapplication": "cpp"
+        "qapplication": "cpp",
+        "qobject": "cpp"
     }
 }

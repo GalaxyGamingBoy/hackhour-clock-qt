@@ -13,8 +13,9 @@ public:
 
 signals:
 public slots:
+    void exit();
 
 private:
 };
 
-#endif
+#endif  // !_HACKHOURQT_WINDOW_H_
