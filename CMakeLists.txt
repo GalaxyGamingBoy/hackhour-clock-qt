@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.16)
 
-set(SOURCES main.cpp window.h window.cpp icons.h)
+set(SOURCES main.cpp src/window.h src/window.cpp src/icons.h src/config/config.h src/config/config.cpp)
 
 project(hackhour-qt VERSION 1.0.0 LANGUAGES CXX)
 

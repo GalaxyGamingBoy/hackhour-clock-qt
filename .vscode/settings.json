@@ -5,6 +5,7 @@
         "*.savedata": "json",
         "qmainwindow": "cpp",
         "qapplication": "cpp",
-        "qobject": "cpp"
+        "qobject": "cpp",
+        "qvboxlayout": "cpp"
     }
 }
